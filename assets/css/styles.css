@@ -280,6 +280,7 @@ a:active {
 
 .btn-resume {
     background-color: white;
+    margin-top: 3rem;
 }
 
 .btn-resume:hover,
