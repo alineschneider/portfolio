@@ -288,6 +288,6 @@ a:active {
     background-color: cadetblue
 }
 
-.btn-resume:focus {
+.btn-resume:visited {
     color: #2f3542;
 }
