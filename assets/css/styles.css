@@ -287,3 +287,7 @@ a:active {
 .btn-resume:active {
     background-color: cadetblue
 }
+
+.btn-resume:focus {
+    color: #2f3542;
+}
